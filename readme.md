@@ -7,10 +7,10 @@
 ##### View deliverables here:
 
 ### Cabinet of Curiosity
-* ["Cone Bites" Diorama Collection!](../cabinetofcuriosity.md)
+* ["Cone Bites" Diorama Collection!](/cabinetofcuriosity.md)
 
 ### Prototype
-* [Custom Stenciled Projection for Lowe Art Museum](../prototype.md)
+* [Custom Stenciled Projection for Lowe Art Museum](/prototype.md)
 
 ### Workshop for Kislak Center, UM Library of Special Collections
 

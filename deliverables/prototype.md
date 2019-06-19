@@ -14,24 +14,23 @@
 
 #### Demo Video:
 
-##### Video Content:
+##### Video Content from the Museum Label (story elements):
 
-###### From the Label Caption (story elements):
-####### * Mino da Fiesole
-####### * Santa Maggiore in 1461/4
-####### * French Cardinal Guillaume d’Estouteville
-####### * Chapel of the Praesepio (the holy crib of Christ)
-####### * St. Jerome
-####### * Annunciate Angel and Annunciate Virgin
-####### * Palazzo Venezia in Rome, monument with four narrative reliefs including scenes from the life of St. Jerome (currently)
+###### * Mino da Fiesole
+###### * Santa Maggiore in 1461/4
+###### * French Cardinal Guillaume d’Estouteville
+###### * Chapel of the Praesepio (the holy crib of Christ)
+###### * St. Jerome
+###### * Annunciate Angel and Annunciate Virgin
+###### * Palazzo Venezia in Rome, monument with four narrative reliefs including scenes from the life of St. Jerome (currently)
 
-###### Other Annunciation works in the Lowe collection:
-####### * “The Annunciation,” Bicci di Lorenzo, ca. 1435-1440
-####### * “The Annunciation”, Marcello Venusti, 16th Century
-####### * “The Annunciation and the Journey to Bethlehem”, Guidoccio Cozzarelli (Italy, 1450-1516 or 1517)
+##### Video Content from other "Annunciation" works in the Lowe collection:
+###### * “The Annunciation,” Bicci di Lorenzo, ca. 1435-1440
+###### * “The Annunciation”, Marcello Venusti, 16th Century
+###### * “The Annunciation and the Journey to Bethlehem”, Guidoccio Cozzarelli (Italy, 1450-1516 or 1517)
 
 #### Video References:
-##### * [Art piece slideshow and captions example](https://vimeo.com/318373891)
+* [Art piece slideshow and captions example](https://vimeo.com/318373891)
 
 #### Label Design and Text: Consistent labeling of the Lowe Art Museum, Video captions with consistent font and black background
 

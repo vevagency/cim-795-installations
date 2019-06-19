@@ -10,7 +10,7 @@
 * ["Cone Bites" Diorama Collection!](/deliverables/cabinetofcuriosity.md)
 
 ### Prototype
-* [Custom Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
+* [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
 
 ### Workshop
 * [Spring "Beginnings" Collection Egg Hunt](/deliverables/workshop.md)

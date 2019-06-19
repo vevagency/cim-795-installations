@@ -2,17 +2,13 @@
 
 ## Custom Video Projection Arch for Lowe Art Museum
 
-#### Exhibit Name:
-“Art of Europe”
+#### Exhibit Name: “Art of Europe”
 
-#### Collection Piece:
-“Arch: The Annunciation” (1461), Mino da Fiesole, Italy, ca. 1430-1484
+#### Collection Piece: “Arch: The Annunciation” (1461), Mino da Fiesole, Italy, ca. 1430-1484
 
-#### Concept Introduction:
-Bring the story of the marble arch history and symbolism to life using video projection.
+#### Concept Introduction: Bring the story of the marble arch history and symbolism to life using video projection.
 
-#### Interface Layout:
-Project video within the marble arch
+#### Interface Layout: Project video within the marble arch
 
 #### Progress Images:
 
@@ -35,17 +31,13 @@ Video Content from other "Annunciation" works in the Lowe collection:
 #### Video References:
   * [Art piece slideshow and captions example](https://vimeo.com/318373891)
 
-#### Label Design and Text:
-Consistent labeling of the Lowe Art Museum, Video captions with consistent font and black background
+#### Label Design and Text: Consistent labeling of the Lowe Art Museum, Video captions with consistent font and black background
 
-#### Audiovisuals and Interactives:
-Video projection onto wall, or screen behind arch, and thematic Roman Catholic instrumental music in background
+#### Audiovisuals and Interactives: Video projection onto wall, or screen behind arch, and thematic Roman Catholic instrumental music in background
 
-#### Color:
-Images to approx. 65% instead of 100% to not detract from the “Arch” piece
+#### Color: Images to approx. 65% instead of 100% to not detract from the “Arch” piece
 
-#### Location:
-Current “Arts of Europe” collection room in the Lowe Art Museum
+#### Location: Current “Arts of Europe” collection room in the Lowe Art Museum
 
 #### Audience:
   * Lowe Art Museum audience, i.e. Gen X demographic (born 1965 - 1979; currently between 40-54 years old; 82 million people in U.S.)

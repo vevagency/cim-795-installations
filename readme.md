@@ -10,13 +10,14 @@
 * ["Cone Bites" Diorama Collection!](/cabinetofcuriosity.md)
 
 ### Prototype
-* [Custom Stenciled Projection for Lowe Art Museum](/prototype.md)
+* [Custom Projection Arch for Lowe Art Museum](/prototype.md)
 
-### Workshop for Kislak Center, UM Library of Special Collections
+### Workshop
+* [Spring "Beginnings" Collection Egg Hunt](/workshop.md)
 
 ### Museum Visit Reflections
-* [Lowe Art Museum Reflection]
+* [Lowe Art Museum Reflection](/lowe.md)
 
-* [Artechouse]
+* [Artechouse](/artechouse.md)
 
-* [Kislak Center, UM Library of Special Collections]
+* [Kislak Center, UM Library of Special Collections](/kislak.md)

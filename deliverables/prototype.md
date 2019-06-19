@@ -6,6 +6,10 @@
 
 #### Collection Piece: “Arch: The Annunciation” (1461), Mino da Fiesole, Italy, ca. 1430-1484
 
+![Image: Collection Piece, “Arch: The Annunciation” (1461), Mino da Fiesole, Italy, ca. 1430-1484](../images/arch.jpg)
+
+![Image: Museum Label, “Arch: The Annunciation” (1461), Mino da Fiesole, Italy, ca. 1430-1484](../images/label.jpg)
+
 #### Concept Introduction: Bring the story of the marble arch history and symbolism to life using video projection.
 
 #### Interface Layout: Project video within the marble arch

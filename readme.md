@@ -26,7 +26,7 @@
 ![PAMM AR Reflection Image](images/pamm.png)
 
 * [Kislak Center 'Books' Special Collection](/assets/reflection-kislak.pdf)
-![PAMM AR Reflection Image](images/kislak.png)
+![Kislak Special Collections Exhibit Image](images/kislak.png)
 
 <!-- * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
 

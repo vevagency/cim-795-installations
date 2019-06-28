@@ -27,15 +27,3 @@
 
 * [Reflection: Kislak Center 'Books' Special Collection (click here)](/assets/reflection-kislak.pdf)
 ![Kislak Special Collections Exhibit Image](images/kislak.png)
-
-<!-- * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
-
-### Workshop
-* [Spring "Beginnings" Collection Egg Hunt](/deliverables/workshop.md)
-
-### Museum Visit Reflections
-* [Lowe Art Museum Reflection](/deliverables/lowe.md)
-
-* [Artechouse](../deliverables/artechouse.md)
-
-* [Kislak Center, UM Library of Special Collections](/deliverables/kislak.md) -->

@@ -6,12 +6,15 @@
 
 ##### View deliverables here:
 
-### "Cabinet of Curiosity"
-![Mockup of App](images/cone-bite.jpg)
+### Cabinet of Curiosity
 * ["Happy Endings" Collection and "Cone Bites" Diorama](/assets/cone-bite-installation.pdf)
+![Cone Bites Slide Image](images/cone-bite.jpg)
 
 ### Prototype
-* [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
+* ["Video Projection Masked "Arch" Prototype](https://docs.google.com/presentation/d/1oqAfFOaHtuNZPH_YPvWdomGGapp_7wOL4Ntokv9VrmA/edit?usp=sharing)
+![Prototype "Arch" Slide Image](images/prototype.jpg)
+
+<!-- * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
 
 ### Workshop
 * [Spring "Beginnings" Collection Egg Hunt](/deliverables/workshop.md)
@@ -21,4 +24,4 @@
 
 * [Artechouse](../deliverables/artechouse.md)
 
-* [Kislak Center, UM Library of Special Collections](/deliverables/kislak.md)
+* [Kislak Center, UM Library of Special Collections](/deliverables/kislak.md) -->

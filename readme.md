@@ -12,11 +12,11 @@
 
 ### Prototype
 * [Video Projection "A Journey into the Arch"](https://docs.google.com/presentation/d/1oqAfFOaHtuNZPH_YPvWdomGGapp_7wOL4Ntokv9VrmA/edit?usp=sharing)
-![Prototype "Arch" Documentation](images/prototype-2.jpg)
+![Prototype "Arch" Documentation](images/prototype.jpg)
 
 ### Exhibit Workshop
 * [Spring 'Beginnings' Collection Workshop and Egg Hunt](/assets/beginnings-workshop.pdf)
-!['Beginnings' Exhibit at Kislak Center Documentation](images/beginning-spring-workshop.jpg)
+!['Beginnings' Exhibit at Kislak Center Documentation](images/beginning-workshop-spring.jpg)
 
 <!-- * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
 

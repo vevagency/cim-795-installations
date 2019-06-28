@@ -2,12 +2,13 @@
 
 ## Installations
 
-### In this hands-on course students learn how to develop interactive installations through surveying art, public & museum installations.
+### This hands-on course explores how to develop interactive installations through surveying art, public & museum installations.
 
 ##### View deliverables here:
 
-### Cabinet of Curiosity
-* ["Cone Bites" Diorama Collection!](/deliverables/cabinetofcuriosity.md)
+### "Cabinet of Curiosity"
+![Mockup of App](images/Cone Bite_Installation.jpg)
+* ["Happy Endings" Collection and "Cone Bites" Diorama](/assets/Cone Bite_Installation.pdf)
 
 ### Prototype
 * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)

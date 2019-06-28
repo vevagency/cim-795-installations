@@ -7,8 +7,8 @@
 ##### View deliverables here:
 
 ### "Cabinet of Curiosity"
-![Mockup of App](images/Cone Bite_Installation.jpg)
-* ["Happy Endings" Collection and "Cone Bites" Diorama](/assets/Cone Bite_Installation.pdf)
+![Mockup of App](images/cone-bite.jpg)
+* ["Happy Endings" Collection and "Cone Bites" Diorama](/assets/cone-bite-installation.pdf)
 
 ### Prototype
 * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)

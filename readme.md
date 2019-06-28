@@ -8,11 +8,15 @@
 
 ### Cabinet of Curiosity
 * ["Happy Endings" Collection and "Cone Bites" Diorama](/assets/cone-bite-installation.pdf)
-![Cone Bites Slide Image](images/cone-bite.jpg)
+![Cone Bites Installation Documentation](images/cone-bite.jpg)
 
 ### Prototype
-* ["Video Projection Masked "Arch" Prototype](https://docs.google.com/presentation/d/1oqAfFOaHtuNZPH_YPvWdomGGapp_7wOL4Ntokv9VrmA/edit?usp=sharing)
-![Prototype "Arch" Slide Image](images/prototype.jpg)
+* [Video Projection "A Journey into the Arch"](https://docs.google.com/presentation/d/1oqAfFOaHtuNZPH_YPvWdomGGapp_7wOL4Ntokv9VrmA/edit?usp=sharing)
+![Prototype "Arch" Documentation](images/prototype-2.jpg)
+
+### Exhibit Workshop
+* [Spring 'Beginnings' Collection Workshop and Egg Hunt](/assets/beginnings-workshop.pdf)
+!['Beginnings' Exhibit at Kislak Center Documentation](images/beginning-spring-workshop.jpg)
 
 <!-- * [Custom Video Projection Arch for Lowe Art Museum](/deliverables/prototype.md)
 
